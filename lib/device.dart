@@ -391,7 +391,7 @@ class MyApp extends StatelessWidget {
                       children: [
                         Text(
                           'Privacy & Policy',
-    uyishi_6may                      style: TextStyle(
+                          style: TextStyle(
                             fontSize: 16,
                             fontWeight: FontWeight.w600,
                           ),
